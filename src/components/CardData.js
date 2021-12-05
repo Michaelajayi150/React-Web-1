@@ -1,5 +1,3 @@
-import React from "react";
-
 export const CardData = [
   {
     src: "image/image-2.jpg",
