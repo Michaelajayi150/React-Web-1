@@ -1,17 +1,12 @@
 import React from "react";
 import * as FaIcons from "react-icons/fa";
+import Video from "../video/video-2.mp4";
 import Button from "./Button";
 
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video
-        src="./video/video-2.mp4"
-        muted
-        loop
-        autoPlay={true}
-        controls=""
-      ></video>
+      <video src={Video} muted loop autoPlay={true} controls=""></video>
       <h1>Adventure Awaits</h1>
       <p>What are you waiting for?</p>
       <div className="hero-button">
