@@ -15,7 +15,7 @@ export const CardData = [
 
 export const CardData2 = [
   {
-    src: require("../image/image.jpg").default,
+    src: require("../image/image-4.jpg").default,
     text: "Walk through the shaky swallow of dust in Sahara Desert",
     label: "Adventure",
     path: "/services",
@@ -27,7 +27,7 @@ export const CardData2 = [
     path: "/services",
   },
   {
-    src: require("../image/image-1.jpg").default,
+    src: require("../image/image-6.jpg").default,
     text: "Play Soccer and favourite field sports on Isolated Island",
     label: "Luxury",
     path: "/services",

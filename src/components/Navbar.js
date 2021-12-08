@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import * as SiIcons from "react-icons/si";
 import * as FaIcons from "react-icons/fa";
@@ -18,8 +18,11 @@ function Navbar() {
       setButton(true);
     }
   };
-
   window.addEventListener("resize", showButton);
+
+  useEffect(() => {
+    showButton();
+  }, []);
 
   return (
     <>
@@ -35,7 +38,7 @@ function Navbar() {
 
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+              <Link to="/home" className="nav-links" onClick={closeMobileMenu}>
                 Home
               </Link>
             </li>

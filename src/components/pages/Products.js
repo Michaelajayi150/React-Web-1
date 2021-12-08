@@ -1,20 +1,12 @@
 import React from "react";
+import Video from "../../video/video-1.mp4";
 import Footer from "./Footer";
 
 export default function Products() {
   return (
     <>
-      <h1
-        style={{
-          backgroundImage: `url(${
-            process.env.PUBLIC_URL + "/image/image-7.jpg"
-          })`,
-          backgroundRepeat: "no-repeat",
-        }}
-        className="products"
-      >
-        PRODUCTS
-      </h1>
+      <video src={Video} muted loop autoPlay={true} controls=""></video>
+      <h1 className="products">PRODUCTS</h1>
       <Footer />
     </>
   );
