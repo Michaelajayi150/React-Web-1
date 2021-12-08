@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/React-Web-1/static/css/main.984cdb99.chunk.css",
-    "main.js": "/React-Web-1/static/js/main.c5a010c2.chunk.js",
-    "main.js.map": "/React-Web-1/static/js/main.c5a010c2.chunk.js.map",
+    "main.css": "/React-Web-1/static/css/main.25f0b939.chunk.css",
+    "main.js": "/React-Web-1/static/js/main.875b732d.chunk.js",
+    "main.js.map": "/React-Web-1/static/js/main.875b732d.chunk.js.map",
     "runtime-main.js": "/React-Web-1/static/js/runtime-main.f025d281.js",
     "runtime-main.js.map": "/React-Web-1/static/js/runtime-main.f025d281.js.map",
-    "static/js/2.1afbc388.chunk.js": "/React-Web-1/static/js/2.1afbc388.chunk.js",
-    "static/js/2.1afbc388.chunk.js.map": "/React-Web-1/static/js/2.1afbc388.chunk.js.map",
+    "static/js/2.f6fd0288.chunk.js": "/React-Web-1/static/js/2.f6fd0288.chunk.js",
+    "static/js/2.f6fd0288.chunk.js.map": "/React-Web-1/static/js/2.f6fd0288.chunk.js.map",
     "static/js/3.54108138.chunk.js": "/React-Web-1/static/js/3.54108138.chunk.js",
     "static/js/3.54108138.chunk.js.map": "/React-Web-1/static/js/3.54108138.chunk.js.map",
     "index.html": "/React-Web-1/index.html",
-    "static/css/main.984cdb99.chunk.css.map": "/React-Web-1/static/css/main.984cdb99.chunk.css.map",
-    "static/js/2.1afbc388.chunk.js.LICENSE.txt": "/React-Web-1/static/js/2.1afbc388.chunk.js.LICENSE.txt",
-    "static/media/image-1.jpg": "/React-Web-1/static/media/image-1.a31875b7.jpg",
-    "static/media/image-2.jpg": "/React-Web-1/static/media/image-2.bb238fc1.jpg",
-    "static/media/image-3.jpg": "/React-Web-1/static/media/image-3.6d683c0e.jpg",
-    "static/media/image-9.jpg": "/React-Web-1/static/media/image-9.c034239e.jpg",
-    "static/media/image.jpg": "/React-Web-1/static/media/image.53f48437.jpg",
-    "static/media/video-2.39e6c79b.mp4": "/React-Web-1/static/media/video-2.39e6c79b.mp4"
+    "static/css/main.25f0b939.chunk.css.map": "/React-Web-1/static/css/main.25f0b939.chunk.css.map",
+    "static/js/2.f6fd0288.chunk.js.LICENSE.txt": "/React-Web-1/static/js/2.f6fd0288.chunk.js.LICENSE.txt",
+    "static/media/image-2.jpg": "/React-Web-1/static/media/image-2.47557ad2.jpg",
+    "static/media/image-3.jpg": "/React-Web-1/static/media/image-3.88e978c9.jpg",
+    "static/media/image-4.jpg": "/React-Web-1/static/media/image-4.d5f0c14f.jpg",
+    "static/media/image-6.jpg": "/React-Web-1/static/media/image-6.2e7ecf81.jpg",
+    "static/media/image-9.jpg": "/React-Web-1/static/media/image-9.48969b9a.jpg",
+    "static/media/video-1.59e75226.mp4": "/React-Web-1/static/media/video-1.59e75226.mp4",
+    "static/media/video-2.0bee2ceb.mp4": "/React-Web-1/static/media/video-2.0bee2ceb.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.f025d281.js",
-    "static/js/2.1afbc388.chunk.js",
-    "static/css/main.984cdb99.chunk.css",
-    "static/js/main.c5a010c2.chunk.js"
+    "static/js/2.f6fd0288.chunk.js",
+    "static/css/main.25f0b939.chunk.css",
+    "static/js/main.875b732d.chunk.js"
   ]
 }
